@@ -1,0 +1,104 @@
+{
+    "users": [
+        {
+            "username": "jquinteros",
+            "password": "123456"
+        },
+        {
+            "username": "admin",
+            "password": "123456"
+        }
+    ],
+    "notificaciones": [
+        {
+            "id": 104,
+            "tipo": 1,
+            "titulo": "HOLA MUNDO",
+            "fecha_inicio_prog": "2020-06-10T12:33:03+00:00",
+            "fecha_fin_prog": "2020-06-10T13:33:03+00:00",
+            "duracion_popup_seg": 300
+        },
+        {
+            "id": 105,
+            "tipo": 2,
+            "titulo": "HOLA MUNDO 2",
+            "fecha_inicio_prog": "2020-06-11T12:33:03+00:00",
+            "fecha_fin_prog": "2020-06-14T13:33:03+00:00",
+            "duracion_popup_seg": 300
+        },
+        {
+            "id": 106,
+            "tipo": 1,
+            "titulo": "HOLA MUNDO 3",
+            "fecha_inicio_prog": "2020-06-09T12:33:03+00:00",
+            "fecha_fin_prog": "2020-06-09T13:33:03+00:00",
+            "duracion_popup_seg": 300
+        }
+    ],
+    "regiones": [
+        {
+            "id": 1,
+            "text": "Buenos Aires"
+        },
+        {
+            "id": 2,
+            "text": "Mendoza"
+        },
+        {
+            "id": 3,
+            "text": "San Luis"
+        },
+        {
+            "id": 4,
+            "text": "Córdoba"
+        }
+    ],
+    "departamentos": [
+        {
+            "id": 1,
+            "text": "Finanzas"
+        },
+        {
+            "id": 2,
+            "text": "Sistemas"
+        },
+        {
+            "id": 3,
+            "text": "Gerencia"
+        },
+        {
+            "id": 4,
+            "text": "Auditoría"
+        },
+        {
+            "id": 5,
+            "text": "Marketing"
+        },
+        {
+            "id": 6,
+            "text": "Legal"
+        }
+    ],
+    "categorias": [
+        {
+            "id": 1,
+            "text": "Trainee"
+        },
+        {
+            "id": 2,
+            "text": "Junior"
+        },
+        {
+            "id": 3,
+            "text": "Semi-Senior"
+        },
+        {
+            "id": 4,
+            "text": "Senior"
+        },
+        {
+            "id": 5,
+            "text": "Accionista"
+        }
+    ]
+}
