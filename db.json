@@ -1,37 +1,64 @@
 {
-    "users": [
-        {
-            "username": "jquinteros",
-            "password": "123456"
-        },
-        {
-            "username": "admin",
-            "password": "123456"
-        }
-    ],
     "notificaciones": [
         {
-            "id": 104,
+            "id": 1,
             "tipo": 1,
             "titulo": "Learning Burst Introduccion",
             "fecha_inicio": "2020-06-10T12:33:03+00:00",
-            "vigencia_id": 1
+            "vigencia_id": 1,
+            "contenido": "dasdasdasdasdasdasdasdasdasd",
+            "question": "¿Que esperas de esta nueva plataforma?",
+            "answers": [
+                {
+                    "id": 193123
+                    "value": "Nada"
+                },
+                {
+                    "id": 193124
+                    "value": "Poco"
+                },
+                {
+                    "id": 193125
+                    "value": "Algo"
+                },
+                {
+                    "id": 193126
+                    "value": "Mucho"
+                },
+            ]
+            "rightAnswer": 4,
+            "region_id": 1,
+            "department_id":2,
+            "category_id":2
         },
-        {
-            "id": 105,
-            "tipo": 2,
-            "titulo": "Webinar ejemplo",
-            "fecha_inicio": "2020-06-11T12:33:03+00:00",
-            "vigencia_id": 3
-        },
-        {
-            "id": 106,
-            "tipo": 1,
-            "titulo": "Encuesta satisfaccion",
-            "fecha_inicio": "2020-06-09T12:33:03+00:00",
-            "vigencia_id": 5
-        }
     ],
+    "vigencias": [
+        {
+            "id": 1,
+            "nombre": "1 día",
+            "valueInDays": 1
+        },
+        {
+            "id": 2,
+            "nombre": "3 días",
+            "valueInDays": 3
+        },
+        {
+            "id": 3,
+            "nombre": "1 semana",
+            "valueInDays": 7
+        },
+        {
+            "id": 4,
+            "nombre": "2 semanas",
+            "valueInDays": 14
+        },
+        {
+            "id": 5,
+            "nombre": "1 mes",
+            "valueInDays": 30
+        },
+    ]
     "regiones": [
         {
             "id": 1,
