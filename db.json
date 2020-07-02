@@ -10,22 +10,22 @@
             "question": "¿Que esperas de esta nueva plataforma?",
             "answers": [
                 {
-                    "id": 193123
+                    "id": 193123,
                     "value": "Nada"
                 },
                 {
-                    "id": 193124
+                    "id": 193124,
                     "value": "Poco"
                 },
                 {
-                    "id": 193125
+                    "id": 193125,
                     "value": "Algo"
                 },
                 {
-                    "id": 193126
+                    "id": 193126,
                     "value": "Mucho"
                 }
-            ]
+            ],
             "rightAnswer": 4,
             "region_id": 1,
             "department_id":2,
