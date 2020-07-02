@@ -24,13 +24,13 @@
                 {
                     "id": 193126
                     "value": "Mucho"
-                },
+                }
             ]
             "rightAnswer": 4,
             "region_id": 1,
             "department_id":2,
             "category_id":2
-        },
+        }
     ],
     "vigencias": [
         {
@@ -57,8 +57,8 @@
             "id": 5,
             "nombre": "1 mes",
             "valueInDays": 30
-        },
-    ]
+        }
+    ],
     "regiones": [
         {
             "id": 1,
