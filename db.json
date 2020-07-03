@@ -66,27 +66,27 @@
     "vigencias": [
         {
             "id": 1,
-            "nombre": "1 día",
+            "name": "1 día",
             "valueInDays": 1
         },
         {
             "id": 2,
-            "nombre": "3 días",
+            "name": "3 días",
             "valueInDays": 3
         },
         {
             "id": 3,
-            "nombre": "1 semana",
+            "name": "1 semana",
             "valueInDays": 7
         },
         {
             "id": 4,
-            "nombre": "2 semanas",
+            "name": "2 semanas",
             "valueInDays": 14
         },
         {
             "id": 5,
-            "nombre": "1 mes",
+            "name": "1 mes",
             "valueInDays": 30
         }
     ],
