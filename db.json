@@ -10,19 +10,19 @@
             "question": "¿Que esperas de esta nueva plataforma?",
             "answers": [
                 {
-                    "id": 193123,
+                    "id": 1,
                     "value": "Nada"
                 },
                 {
-                    "id": 193124,
+                    "id": 2,
                     "value": "Poco"
                 },
                 {
-                    "id": 193125,
+                    "id": 3,
                     "value": "Algo"
                 },
                 {
-                    "id": 193126,
+                    "id": 4,
                     "value": "Mucho"
                 }
             ],
@@ -41,19 +41,19 @@
             "question": "¿Que esperas de esta nueva plataforma?",
             "answers": [
                 {
-                    "id": 193123,
+                    "id": 1,
                     "value": "Nada"
                 },
                 {
-                    "id": 193124,
+                    "id": 2,
                     "value": "Poco"
                 },
                 {
-                    "id": 193125,
+                    "id": 3,
                     "value": "Algo"
                 },
                 {
-                    "id": 193126,
+                    "id": 4,
                     "value": "Mucho"
                 }
             ],
@@ -154,6 +154,43 @@
         {
             "id": 5,
             "text": "Accionista"
+        }
+    ],
+    "log": [
+        {
+            "notification": "Learning Burst Introduccion",
+            "date": "2020-07-06T12:33:03+00:00",
+            "user": "jcrisolini",
+            "action": "form-complete",
+            "type": 1,
+        },
+        {
+            "notification": "Learning Burst Introduccion",
+            "date": "2020-07-06T12:37:03+00:00",
+            "user": "jquinteros",
+            "action": "dismiss",
+            "type": 1,
+        },
+        {
+            "notification": "Learning Burst Banner",
+            "date": "2020-07-07T17:33:03+00:00",
+            "user": "jcrisolini",
+            "action": "clicked",
+            "type": 2,
+        },
+        {
+            "notification": "Learning Burst Banner",
+            "date": "2020-07-06T17:38:03+00:00",
+            "user": "jquinteros",
+            "action": "clicked",
+            "type": 2,
+        },
+        {
+            "notification": "Learning Burst Introduccion",
+            "date": "2020-08-06T12:33:03+00:00",
+            "user": "mlopez",
+            "action": "dismiss",
+            "type": 1,
         }
     ]
 }
