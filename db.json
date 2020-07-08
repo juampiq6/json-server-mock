@@ -93,19 +93,23 @@
     "regiones": [
         {
             "id": 1,
-            "text": "Buenos Aires"
+            "text": "Argentina"
         },
         {
             "id": 2,
-            "text": "Mendoza"
+            "text": "Chile"
         },
         {
             "id": 3,
-            "text": "San Luis"
+            "text": "Uruguay"
         },
         {
             "id": 4,
-            "text": "Córdoba"
+            "text": "Perú"
+        },
+        {
+            "id": 4,
+            "text": "Paraguay"
         }
     ],
     "departamentos": [
