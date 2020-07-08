@@ -162,35 +162,35 @@
             "date": "2020-07-06T12:33:03+00:00",
             "user": "jcrisolini",
             "action": "form-complete",
-            "type": 1,
+            "type": 1
         },
         {
             "notification": "Learning Burst Introduccion",
             "date": "2020-07-06T12:37:03+00:00",
             "user": "jquinteros",
             "action": "dismiss",
-            "type": 1,
+            "type": 1
         },
         {
             "notification": "Learning Burst Banner",
             "date": "2020-07-07T17:33:03+00:00",
             "user": "jcrisolini",
             "action": "clicked",
-            "type": 2,
+            "type": 2
         },
         {
             "notification": "Learning Burst Banner",
             "date": "2020-07-06T17:38:03+00:00",
             "user": "jquinteros",
             "action": "clicked",
-            "type": 2,
+            "type": 2
         },
         {
             "notification": "Learning Burst Introduccion",
             "date": "2020-08-06T12:33:03+00:00",
             "user": "mlopez",
             "action": "dismiss",
-            "type": 1,
+            "type": 1
         }
     ]
 }
