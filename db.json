@@ -10,23 +10,23 @@
             "question": "¿Que esperas de esta nueva plataforma?",
             "answers": [
                 {
-                    "id": 1,
+                    "id": 0,
                     "value": "Nada"
                 },
                 {
-                    "id": 2,
+                    "id": 1,
                     "value": "Poco"
                 },
                 {
-                    "id": 3,
+                    "id": 2,
                     "value": "Algo"
                 },
                 {
-                    "id": 4,
+                    "id": 3,
                     "value": "Mucho"
                 }
             ],
-            "rightAnswer": 193126,
+            "rightAnswer": 3,
             "regionIds": [1],
             "departmentIds":[2,3],
             "categoryIds":[2]
@@ -41,23 +41,23 @@
             "question": "¿Que esperas de esta nueva plataforma?",
             "answers": [
                 {
-                    "id": 1,
+                    "id": 0,
                     "value": "Nada"
                 },
                 {
-                    "id": 2,
+                    "id": 1,
                     "value": "Poco"
                 },
                 {
-                    "id": 3,
+                    "id": 2,
                     "value": "Algo"
                 },
                 {
-                    "id": 4,
+                    "id": 3,
                     "value": "Mucho"
                 }
             ],
-            "rightAnswer": 4,
+            "rightAnswer": 2,
             "regionIds": [2],
             "departmentIds":[1],
             "categoryIds":[3]
